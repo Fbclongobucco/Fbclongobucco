@@ -34,4 +34,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fabr%C3%ADcio-longo-bucco-456285219/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/longobucco_dev/)  
-✉️ **Email:** longobuccofbc@email.com  
+✉️ **Email:** longobuccofbc@gmail.com  
